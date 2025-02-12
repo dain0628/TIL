@@ -8,3 +8,5 @@
     - 3. git remote add origin {링크}
 - 5. git commit -m '{text}' => text 란에 자유롭게 기입 , 편의상 1st, 2nd ... 식으로 쓰는 게 나중을 위해 좋음
 - 6. git push origin master
+
+

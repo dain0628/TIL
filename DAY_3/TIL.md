@@ -12,5 +12,5 @@
 - git add . 
 - git commit -m {}
 
-# 브랜치 삭제
+## 브랜치 삭제
 - git branch -d {브랜치이름}
